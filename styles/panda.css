@@ -1,0 +1,44 @@
+body {
+    margin: 0 auto;
+    max-width: 1140px;
+    background-color: rgb(230, 228, 225);
+}
+
+header{
+    margin: 20px;
+}
+
+header h1{
+    font-size: 800;
+    text-align: center;
+    background-color: aliceblue;
+    font-weight: bold;
+}
+
+.front{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+button{
+    background-color: rgb(227, 231, 231);
+    border-radius: 5px;
+}
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+img{
+    width: 30%;
+    height: 300px;
+}
+
+.middle{
+margin: 20px;
+}
+.anchor{
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline;
+}
